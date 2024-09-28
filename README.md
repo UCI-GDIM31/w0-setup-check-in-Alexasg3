@@ -7,16 +7,20 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 
 1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
 
+    Hello, my name is Alexander Garcia (but I go by Alex). My pronouns are He/Him. I like to play many games, my favorite genre probably being sandbox games. Some games I play include: Minecraft, Terraria, Stardew Valley, and Overwatch. The games I play change very often so it is hard to narrow down exactly what I play, but that is a list of games I often come back to. I am taking this class because I am trying to declare GDIM as a second major, my primary major is Computer Science and Engineering. I have developed some small games and worked on other computer science projects so I am very familiar with programming. I hope to build a variety of games that will excercise my programming skills.
+
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
     - [ ] Game Design & Interactive Media
-    - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
+    - [X] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
     - [ ] Art-related major (please specify)
     - [ ] Undecided
     - [ ] Other (please specify)
 
 3. What are you hoping to get out of this class?
+    Ultimately, I really just need the class credit in order to move forward in the major. But I do hope that there are some things I can learn that I might not have learned before. I also want to be able to add some more projects to my portfolio and meet new people.
 4. What, if anything, are you nervous about for this class?
+    I am not really nervous for anything, this class seems very fun and I think I should do well in it.
 
 ## Prior Experience
 
@@ -25,10 +29,11 @@ The next questions ask about what (if any) prior experience you have. This class
 ### Development
 
 1. Programming (any languages/ frameworks)
-
+    I am familiar with C, C++, C#, java, html, and gdscript.
 2. Game development (any engine)
-
+    I have worked extensively with unity and godot. I have dabbled in unreal, but have not really worked on a full project
 3. Unity
+    I have worked a lot with unity and would say I am familiar with most of its capabilities.
 
 ### Programming & Game Development Concepts
 
@@ -40,14 +45,15 @@ For the next questions, a programming or game development concept is presented:
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
 1. Game design document
-
+    A document that lays out the details of a game that is to be worked on. It lays out the game concept, the progression of it, and also some sample assets.
 2. Scope management
-
+    This is the ability to control how big a game can be, or its scope. It is important to know what is feasible to accomplish (in scope) and what is too much (out of scope)
 3. Iteration
-
+    The progressive working on different versions of a product, with each successive version improving.
 4. Object-Oriented programming
-
+    A type of programming where the basic blocks are Objects. Objects have properties and actions that they can do (methods).
 5. Model-View-Controller architecture
+    N/A
 
 ## Complete!
 
